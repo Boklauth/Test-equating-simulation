@@ -1,0 +1,2 @@
+# Test-equating-simulation
+This project seeks to study the differences in efficiency of test equating methods, including linear and non-linear methods. First, it simulates data in various conditions: test length, anchor test length, form difficulty, and person ability level. Then, it uses different equating methods to determine more efficient test equating methods by examining the stability of the methods over sample sizes. 
